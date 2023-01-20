@@ -1,0 +1,8 @@
+2023-01-20 09:06:52,352 This is my log with timestamp
+root 2023-01-20 09:09:09,902 This is my log with timestamp
+ 2023-01-20 09:09:27,050 root This is my log with timestamp
+INFO 2023-01-20 09:10:24,277 root This is my log with timestamp
+INFO 2023-01-20 09:10:49,284: root :: This is my log with timestamp
+INFO: 2023-01-20 09:11:07,500: root :: This is my log with timestamp
+INFO: 2023-01-20 09:15:17,650: root :: 
+INFO: 2023-01-20 09:15:32,820: root :: This is my log with timestamp

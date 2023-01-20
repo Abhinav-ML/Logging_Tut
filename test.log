@@ -1,0 +1,40 @@
+INFO:root:This is my very first code for logging
+INFO:root:This is my very first code for logging
+INFO:root:2
+INFO:root:This is my very first code for logging
+INFO:root:[1, 2, 3, 4, 5, 6, 7]
+INFO:root:This is my very first code for logging
+WARNING:root:This will try to log some warning meassages
+INFO:root:[1, 2, 3, 4, 5, 6, 7]
+INFO:root:This is my very first code for logging
+WARNING:root:This will try to log some warning meassages
+INFO:root:2
+INFO:root:This is my very first code for logging
+WARNING:root:This will try to log some warning meassages
+INFO:root:2
+WARNING:root:Here 2 occured
+INFO:root:This is my very first code for logging
+WARNING:root:This will try to log some warning meassages
+ERROR:root:Here some error occured from the system
+INFO:root:2
+WARNING:root:Here 2 occured !!!
+INFO:root:This is my very first code for logging
+WARNING:root:This will try to log some warning messages
+ERROR:root:Here some error occured from the system
+INFO:root:2
+WARNING:root:Here 2 occured !!!
+INFO:root:This is my very first code for logging
+WARNING:root:This will try to log some warning messages
+ERROR:root:Here some error occured from the system
+INFO:root:2
+WARNING:root:Here 2 occured !!!
+INFO:root:This is my very first code for logging
+WARNING:root:This will try to log some warning messages
+ERROR:root:Here some error occured from the system
+INFO:root:2
+WARNING:root:Here 2 occured !!!
+INFO:root:This is my very first code for logging
+WARNING:root:This will try to log some warning messages
+ERROR:root:Here some error occured from the system
+INFO:root:l : [1, 2, 3, 4, 5, 6, 7]
+WARNING:root:Here 2 occured !!!

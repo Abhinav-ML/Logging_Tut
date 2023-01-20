@@ -1,0 +1,46 @@
+INFO root 2023-01-20 10:47:20,216 This program is related to file handling
+INFO root 2023-01-20 10:47:20,216 Trying to read a file
+ERROR root 2023-01-20 10:47:20,216 [Errno 2] No such file or directory: 'abhinav.txt'
+INFO root 2023-01-20 10:48:33,910 This program is related to file handling
+INFO root 2023-01-20 10:48:33,910 Trying to read a file
+CRITICAL root 2023-01-20 10:48:33,911 This is serious thing. Think about it !!!
+ERROR root 2023-01-20 10:48:33,911 [Errno 2] No such file or directory: 'abhinav.txt'
+INFO root 2023-01-20 10:49:54,525 This program is related to file handling
+INFO root 2023-01-20 10:49:54,525 Trying to read a file
+CRITICAL root 2023-01-20 10:49:54,525 This is serious thing. Think about it !!!
+ERROR root 2023-01-20 10:49:54,525 [Errno 2] No such file or directory: 'abhinav.txt'
+INFO root 2023-01-20 10:50:17,393 This program is related to file handling
+INFO root 2023-01-20 10:50:17,393 Trying to read a file
+CRITICAL root 2023-01-20 10:50:17,393 This is serious thing. Think about it !!!
+ERROR root 2023-01-20 10:50:17,394 [Errno 2] No such file or directory: 'abhinav.txt'
+INFO root 2023-01-20 10:51:59,813 This program is related to file handling
+INFO root 2023-01-20 10:51:59,813 Trying to read a file
+INFO root 2023-01-20 10:51:59,813 File reading completed
+INFO root 2023-01-20 10:53:00,053 This program is related to file handling
+INFO root 2023-01-20 10:53:00,053 Trying to read a file
+INFO root 2023-01-20 10:53:00,053 Context of file 
+ <_io.TextIOWrapper name='intro.txt' mode='r' encoding='cp1252'>
+INFO root 2023-01-20 10:53:00,053 File reading completed
+INFO root 2023-01-20 10:53:35,749 This program is related to file handling
+INFO root 2023-01-20 10:53:35,749 Trying to read a file
+INFO root 2023-01-20 10:53:35,749 Context of file 
+ "Hi , I am Abhinav"
+INFO root 2023-01-20 10:53:35,749 File reading completed
+INFO root 2023-01-20 10:54:19,422 This program is related to file handling
+INFO root 2023-01-20 10:54:19,422 Trying to read a file
+INFO root 2023-01-20 10:54:19,422 Context of file 
+ "Hi , I am Abhinav"
+INFO root 2023-01-20 10:54:19,422 File reading completed
+INFO root 2023-01-20 10:55:17,896 This program is related to file handling
+INFO root 2023-01-20 10:55:17,896 Trying to read a file
+CRITICAL root 2023-01-20 10:55:17,896 This is serious thing. Think about it !!!
+ERROR root 2023-01-20 10:55:17,896 [Errno 2] No such file or directory: 'abhinav.txt'
+INFO root 2023-01-20 10:56:04,173 This program is related to file handling
+INFO root 2023-01-20 10:56:04,173 Trying to read a file
+CRITICAL root 2023-01-20 10:56:04,173 This is serious thing. Think about it !!!
+ERROR root 2023-01-20 10:56:04,173 [Errno 2] No such file or directory: 'abhinav.txt'
+ERROR root 2023-01-20 10:56:04,173 [Errno 2] No such file or directory: 'abhinav.txt'
+Traceback (most recent call last):
+  File "D:/Tutorial/Logging_Tut/test4.py", line 13, in <module>
+    with open('abhinav.txt', 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'abhinav.txt'

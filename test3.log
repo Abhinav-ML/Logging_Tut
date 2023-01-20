@@ -1,0 +1,52 @@
+INFO:root:functionality of logging with real problems 
+INFO:root:functionality of logging with real problems 
+INFO:root:User has entered 3 and 6
+INFO:root:functionality of logging with real problems 
+INFO:root:User has entered 3 and 6
+INFO root 2023-01-20 09:35:55,618 functionality of logging with real problems  
+INFO root 2023-01-20 09:35:55,619 User has entered 3 and 6 
+INFO root 2023-01-20 09:37:29,971 functionality of logging with real problems  
+INFO root 2023-01-20 09:37:29,972 User has entered 3 and 9 
+INFO root 2023-01-20 09:49:06,014 functionality of logging with real problems  
+INFO root 2023-01-20 09:49:06,014 User has entered 3 and 9 
+INFO root 2023-01-20 09:49:27,706 functionality of logging with real problems  
+INFO root 2023-01-20 09:49:27,707 User has entered 3 and 0 
+INFO root 2023-01-20 09:51:06,423 functionality of logging with real problems  
+INFO root 2023-01-20 09:51:06,423 User has entered 3 and 0 
+INFO root 2023-01-20 09:51:06,423 We are into the function 
+ERROR root 2023-01-20 09:51:06,423 division by zero 
+Traceback (most recent call last):
+  File "D:/Tutorial/Logging_Tut/test3.py", line 10, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO root 2023-01-20 09:52:30,793 functionality of logging with real problems  
+INFO root 2023-01-20 09:52:30,793 User has entered 5 and 0 
+INFO root 2023-01-20 09:52:30,793 We are into the function 
+ERROR root 2023-01-20 09:52:30,793 division by zero 
+Traceback (most recent call last):
+  File "D:/Tutorial/Logging_Tut/test3.py", line 10, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO root 2023-01-20 09:53:02,908 functionality of logging with real problems  
+INFO root 2023-01-20 09:53:02,908 User has entered 5 and 2 
+INFO root 2023-01-20 09:53:02,908 We are into the function 
+INFO root 2023-01-20 09:53:02,908 Operation done successfullly!! 
+INFO root 2023-01-20 09:53:02,908 Result is 2.5 
+ERROR root 2023-01-20 10:10:17,095 division by zero 
+Traceback (most recent call last):
+  File "D:/Tutorial/Logging_Tut/test3.py", line 10, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO root 2023-01-20 10:10:36,197 functionality of logging with real problems  
+INFO root 2023-01-20 10:10:36,197 User has entered 5 and 0 
+INFO root 2023-01-20 10:10:36,197 We are into the function 
+ERROR root 2023-01-20 10:10:36,197 division by zero 
+Traceback (most recent call last):
+  File "D:/Tutorial/Logging_Tut/test3.py", line 10, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO root 2023-01-20 10:11:01,108 functionality of logging with real problems  
+INFO root 2023-01-20 10:11:01,109 User has entered 5 and 3 
+INFO root 2023-01-20 10:11:01,109 We are into the function 
+INFO root 2023-01-20 10:11:01,109 Operation done successfullly!! 
+INFO root 2023-01-20 10:11:01,109 Result is 1.6666666666666667 
